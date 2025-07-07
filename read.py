@@ -39,6 +39,6 @@ def best_ngrams(text, max_n=7, min_freq=2):
 top_grams = best_ngrams(cleaned, max_n=7, min_freq=5)
 
 for n, grams in top_grams.items():
-    print(f"\nTop {n}-grams (freq ≥ 2):")
+    print(f"\nTop {n}-grams (freq ≥ 5):")
     for gram, count in grams:
         print(f"  {gram} : {count}")
