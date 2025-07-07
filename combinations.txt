@@ -1,4 +1,4 @@
-Top 1-grams (freq ≥ 2):
+Top 1-grams (freq ≥ 5):
   E : 160
   I : 133
   T : 131
@@ -22,7 +22,7 @@ Top 1-grams (freq ≥ 2):
   V : 18
   P : 17
 
-Top 2-grams (freq ≥ 2):
+Top 2-grams (freq ≥ 5):
   TH : 39
   IN : 30
   TO : 25
@@ -123,7 +123,7 @@ Top 2-grams (freq ≥ 2):
   FE : 5
   HT : 5
 
-Top 3-grams (freq ≥ 2):
+Top 3-grams (freq ≥ 5):
   ING : 18
   THE : 15
   THI : 12
@@ -160,7 +160,7 @@ Top 3-grams (freq ≥ 2):
   EME : 5
   EWI : 5
 
-Top 4-grams (freq ≥ 2):
+Top 4-grams (freq ≥ 5):
   THIN : 11
   MAKE : 9
   HING : 7
@@ -174,10 +174,10 @@ Top 4-grams (freq ≥ 2):
   MEAN : 5
   TOMA : 5
 
-Top 5-grams (freq ≥ 2):
+Top 5-grams (freq ≥ 5):
   THING : 7
   OMAKE : 6
   TOMAK : 5
 
-Top 6-grams (freq ≥ 2):
+Top 6-grams (freq ≥ 5):
   TOMAKE : 5
